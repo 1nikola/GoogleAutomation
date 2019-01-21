@@ -1,0 +1,12 @@
+C:\projects\GoogleAutomation\AutomationProject\bin\Debug\AutomationProject.dll.config
+C:\projects\GoogleAutomation\AutomationProject\bin\Debug\AutomationProject.dll
+C:\projects\GoogleAutomation\AutomationProject\bin\Debug\AutomationProject.pdb
+C:\projects\GoogleAutomation\AutomationProject\bin\Debug\WebDriver.dll
+C:\projects\GoogleAutomation\AutomationProject\bin\Debug\WebDriver.Support.dll
+C:\projects\GoogleAutomation\AutomationProject\bin\Debug\WebDriver.xml
+C:\projects\GoogleAutomation\AutomationProject\bin\Debug\WebDriver.Support.xml
+C:\projects\GoogleAutomation\AutomationProject\obj\Debug\AutomationProject.dll
+C:\projects\GoogleAutomation\AutomationProject\obj\Debug\AutomationProject.pdb
+C:\projects\GoogleAutomation\AutomationProject\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\projects\GoogleAutomation\AutomationProject\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\projects\GoogleAutomation\AutomationProject\obj\Debug\AutomationProject.csprojResolveAssemblyReference.cache
